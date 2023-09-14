@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reglogin/static/css/main.f0c5e9c5.css",
+    "main.js": "/reglogin/static/js/main.55419069.js",
+    "index.html": "/reglogin/index.html",
+    "main.f0c5e9c5.css.map": "/reglogin/static/css/main.f0c5e9c5.css.map",
+    "main.55419069.js.map": "/reglogin/static/js/main.55419069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c5e9c5.css",
+    "static/js/main.55419069.js"
+  ]
+}
